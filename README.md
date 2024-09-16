@@ -10,3 +10,15 @@ Luego, cayo en mis manos un titulo bien-ganado de periodista y comence a escribi
 * Despues, las **paginas de ventas** 🖖
 
 Y ahora estoy aca, escribiendo esta muy breve introduccion para darte a conocer que o quien es este Jesus Silva.
+
+
+# Mis 7 Comandos Mas Usados
+| Comando | Descripcion                                       |
+| ------- | ------------------------------------------------- |
+| ls      | listado para saber el contenido de un directorio  |
+| pwd     | para saber bien donde estoy                       |
+| whoami  | para saber que usuario esta manejando la terminal |
+| alias   | para ponerle shortcuts a algunos comandos         |
+| cl      | para eliminar todo (clear). Este es un alias      |
+| cd      | para cambiar de direccion                         |
+| mk      | para crear una nueva direccion (mkdir). Alias     |
